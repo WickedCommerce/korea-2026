@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korea 2026 — Expenditure</title>
+<style>
+  :root{
+    --ink:#2b2320; --paper:#faf6ef; --card:#ffffff; --line:#e8e0d2;
+    --persimmon:#d9633b; --pine:#3d6b5c; --muted:#8a7f72; --gold:#c99a3c;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--paper);color:var(--ink);line-height:1.5}
+  .wrap{max-width:760px;margin:0 auto;padding:36px 20px 60px}
+  header{text-align:center;margin-bottom:26px}
+  .kicker{letter-spacing:.22em;text-transform:uppercase;font-size:12px;color:var(--persimmon);font-weight:700}
+  h1{font-size:clamp(26px,5vw,40px);font-weight:800;margin:6px 0 4px}
+  .sub{color:var(--muted);font-size:14.5px}
+  .back{display:inline-block;margin-top:10px;font-size:13px;color:var(--pine);text-decoration:none;font-weight:600;border:1px solid var(--line);background:var(--card);padding:5px 14px;border-radius:999px}
+  h2{font-size:17px;font-weight:800;margin:28px 0 10px;color:var(--pine)}
+  table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
+  th{background:#f1ece1;text-align:left;padding:9px 12px;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+  td{padding:9px 12px;border-top:1px solid var(--line);vertical-align:top}
+  td.r, th.r{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+  tr.total td{font-weight:800;background:#f6f1e7}
+  .badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap}
+  .booked{background:#e3efe8;color:#2c5c47}
+  .planned{background:#f6e8d2;color:#8a5a12}
+  .window{background:#e8ecf4;color:#3c5a8a}
+  .note{font-size:12.5px;color:var(--muted);margin-top:8px}
+  .hero{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px;justify-content:center}
+  .stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 20px;text-align:center;min-width:150px}
+  .stat .n{font-size:22px;font-weight:800}
+  .stat .l{font-size:11.5px;color:var(--muted);letter-spacing:.05em;text-transform:uppercase}
+  .stat.good .n{color:#2c5c47}
+  footer{text-align:center;color:var(--muted);font-size:12px;margin-top:34px}
+  @media print{ body{background:#fff} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">Korea 2026 · Money Page</div>
+    <h1>Expenditure 💷</h1>
+    <div class="sub">2 adults + 1 child · 10 nights · updated 13 Aug 2026 · estimates marked, FX ≈ ₩1,910/£</div>
+    <a class="back" href="index.html">← back to the itinerary</a>
+    <div class="hero">
+      <div class="stat good"><div class="n">£1,776</div><div class="l">Hotels — all booked</div></div>
+      <div class="stat good"><div class="n">£724</div><div class="l">Under the £2,500 hotel budget</div></div>
+      <div class="stat"><div class="n">~£2,540–2,615</div><div class="l">Projected total fixed costs</div></div>
+    </div>
+  </header>
+
+  <h2>Accommodation — booked ✓</h2>
+  <table>
+    <tr><th>Stay</th><th>Dates</th><th></th><th class="r">Paid</th></tr>
+    <tr><td><b>Moxy Seoul Insadong</b> · Twin + Double, City View</td><td>Fri 23 – Sun 25 Oct</td><td><span class="badge booked">BOOKED</span></td><td class="r">£454.00</td></tr>
+    <tr><td><b>ENA Suite Namdaemun</b> · Family Twin (pool!)</td><td>Sun 25 – Tue 27 Oct</td><td><span class="badge booked">BOOKED</span></td><td class="r">£349.00</td></tr>
+    <tr><td><b>Grand Josun Busan</b> · Deluxe City View Twin, 5★ beachfront</td><td>Tue 27 – Sat 31 Oct</td><td><span class="badge booked">BOOKED</span></td><td class="r">£527.33</td></tr>
+    <tr><td><b>Haeon Seoul</b> · whole private hanok, Ikseon-dong</td><td>Sat 31 Oct – Mon 2 Nov</td><td><span class="badge booked">BOOKED</span></td><td class="r">£446.00</td></tr>
+    <tr class="total"><td colspan="3">Accommodation total (vs £2,500 budget)</td><td class="r">£1,776.33</td></tr>
+  </table>
+  <p class="note">All hotel bookings are free-cancellation until 22–25 Oct; the hanok until 1 Oct (partial to 24 Oct).</p>
+
+  <h2>Activities &amp; tours — to book</h2>
+  <table>
+    <tr><th>Item</th><th>When</th><th></th><th class="r">Est.</th></tr>
+    <tr><td>DMZ half-day tour ×3 (PLK, GetYourGuide)</td><td>Sun 25 Oct</td><td><span class="badge planned">BOOK NOW</span></td><td class="r">~£111</td></tr>
+    <tr><td>Gwangjang guided food tour ×3 (Secret Food Tours)</td><td>Sat 24 Oct eve</td><td><span class="badge planned">BOOK NOW</span></td><td class="r">~£200</td></tr>
+    <tr><td>Theme park day ×3 — Everland <i>or</i> Lotte World (+ Seoul Sky &amp; Aquarium set)</td><td>Mon 26 Oct</td><td><span class="badge window">BUY ~18–20 OCT</span></td><td class="r">~£145–180</td></tr>
+    <tr><td>Blueline Sky Capsule (3-pax) + Beach Train return</td><td>Tue 27 Oct</td><td><span class="badge window">RELEASES ~13 OCT</span></td><td class="r">~£41</td></tr>
+    <tr><td>Kimchi-making drop-in ×3 (Museum Kimchikan)</td><td>Sun 1 Nov</td><td><span class="badge planned">PAY ON DAY</span></td><td class="r">~£16</td></tr>
+    <tr><td>National Museum Children's Museum</td><td>Sun 1 Nov</td><td><span class="badge window">FREE · BOOK 17 OCT</span></td><td class="r">£0</td></tr>
+    <tr class="total"><td colspan="3">Activities subtotal</td><td class="r">~£513–548</td></tr>
+  </table>
+
+  <h2>Transport &amp; connectivity</h2>
+  <table>
+    <tr><th>Item</th><th>When</th><th></th><th class="r">Est.</th></tr>
+    <tr><td>KTX Seoul ⇄ Busan ×3 (child half fare)</td><td>On sale 26 &amp; 29/30 Sep</td><td><span class="badge window">DIARY ITEM</span></td><td class="r">~£154</td></tr>
+    <tr><td>Private transfer ICN T2 → Moxy (arrival)</td><td>Fri 23 Oct</td><td><span class="badge planned">BOOK NOW</span></td><td class="r">~£46–75</td></tr>
+    <tr><td>AREX Express to ICN T2 (departure)</td><td>Mon 2 Nov</td><td><span class="badge planned">ON THE DAY</span></td><td class="r">~£18</td></tr>
+    <tr><td>eSIMs (LG U+ unlimited + Airalo 10GB)</td><td>Buy ~mid-Oct</td><td><span class="badge planned">PLANNED</span></td><td class="r">~£32–51</td></tr>
+    <tr><td>T-money cards ×3 + starting credit</td><td>At the airport</td><td><span class="badge planned">ON ARRIVAL</span></td><td class="r">~£40</td></tr>
+    <tr class="total"><td colspan="3">Transport subtotal</td><td class="r">~£290–338</td></tr>
+  </table>
+
+  <h2>The bottom line</h2>
+  <table>
+    <tr><td>Accommodation (booked)</td><td class="r">£1,776.33</td></tr>
+    <tr><td>Activities &amp; tours (est.)</td><td class="r">~£513–548</td></tr>
+    <tr><td>Transport &amp; connectivity (est.)</td><td class="r">~£290–338</td></tr>
+    <tr class="total"><td>Projected fixed costs (excl. flights, food &amp; spending money)</td><td class="r">~£2,580–2,660</td></tr>
+  </table>
+  <p class="note">Flights already booked separately (VS208/209). Not included: meals, souvenirs, taxis and the daughter's inevitable Kakao Friends haul. Hotels.com Rewards should return ~£100 credit after the trip (8 qualifying nights booked there).</p>
+
+  <footer>Korea 2026 · figures live in <b>02BOOKINGS.md</b> in the planning folder</footer>
+</div>
+</body>
+</html>
