@@ -3,7 +3,7 @@
  "collection_id": "18312160387253062",
  "url": null,
  "schema_version": 2,
- "last_audit": "2026-08-27",
+ "last_audit": "2026-08-29",
  "posts": [
   {
    "id": "DcFMLcSp0Qm",
@@ -2180,6 +2180,23 @@
    "fit": "Repeats @xplorskorea's six mistakes; the new material is the no-food-on-transport rule and the peak-hour warning. Merged into that entry.",
    "status": "open",
    "merged_into": "DcEZNMhElXR"
+  },
+  {
+   "id": "DclM0SjBx0Q",
+   "code": "DclM0SjBx0Q",
+   "first_seen": "2026-08-29",
+   "creator": "seoul_express_tours",
+   "title": "Jamsugyo Bridge car-free Sunday festival (뚜벅뚜벅축제)",
+   "location": "Jamsugyo Bridge + Banpo Hangang Park — Sinbanpo Stn (Line 9) or Express Bus Terminal (Lines 3/7/9)",
+   "section": "Activities",
+   "group": "Seoul",
+   "city": "Seoul",
+   "score": "🟡",
+   "day": "Sun 25 Oct",
+   "notes": "Every Sunday **6 Sep – 25 Oct 2026**, 14:00–22:00, free entry (food and some activities extra). The bridge closes to cars and becomes a riverside festival with a different theme each week: 4 Oct food road (~100 trucks), 11 Oct media art night, 18 Oct refresh day (yoga), and **25 Oct grand finale — programme still to be announced**. Every week regardless: ~30 food trucks, handmade market, silent DJ party, busking, games, and the Banpo Moonlight Rainbow Fountain. Some activities need advance registration. Creator says 2026 is the last season in this format before Jamsugyo is fully pedestrianised in 2027. [post](https://instagram.com/p/DclM0SjBx0Q)",
+   "fit": "🟡 **Sun 25 Oct is the finale and it is our DMZ day** — we are back in Seoul 14:00–15:00 and the hotel move to ENA is that afternoon, so the festival is a direct alternative to the planned Hongdae evening. Free, riverside, food trucks and a fountain show: an easier sell for an 8-year-old than Hongdae arcades, and Banpo is ~20 min from Namdaemun. The finale programme was unannounced at time of saving — check the Seoul city site before committing.",
+   "status": "open",
+   "merged_into": null
   }
  ]
 }
