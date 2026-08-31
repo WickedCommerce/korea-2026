@@ -3,7 +3,7 @@
  "collection_id": "18312160387253062",
  "url": null,
  "schema_version": 2,
- "last_audit": "2026-08-30",
+ "last_audit": "2026-08-31",
  "posts": [
   {
    "id": "DcFMLcSp0Qm",
@@ -2333,6 +2333,57 @@
    "status": "open",
    "merged_into": null,
    "first_seen": "2026-08-30"
+  },
+  {
+   "id": "DX9XHRKD9Ee",
+   "code": "DX9XHRKD9Ee",
+   "first_seen": "2026-08-31",
+   "creator": "mariluna0405a",
+   "title": "Yeouido Hangang Park",
+   "location": "Yeouido",
+   "section": "Activities",
+   "group": "Seoul",
+   "city": "Seoul",
+   "score": "⚪",
+   "day": null,
+   "notes": "Second save of Yeouido Hangang Park — a family picnic afternoon by the river; adds no new detail.",
+   "fit": "Duplicate of the @gonnyday family-list entry; merged there.",
+   "status": "open",
+   "merged_into": "DcbTHStlBRk#4"
+  },
+  {
+   "id": "Db3Eg_CpD0l",
+   "code": "Db3Eg_CpD0l",
+   "first_seen": "2026-08-31",
+   "creator": "ahjoomahan",
+   "title": "Gyeongju hanok stay with a private pool",
+   "location": "Gyeongju — 3h KTX from Seoul, then a hire car from the station",
+   "section": "Activities",
+   "group": "Further afield",
+   "city": "Other",
+   "score": "🔴",
+   "day": null,
+   "notes": "Traditional hanok with modern comforts and a **private pool**; weekend trip from Seoul by KTX plus hire car. Property unnamed — details gated behind a \"comment hanok\" reply.",
+   "fit": "Gyeongju is off the 4-4-2 route and a 3h KTX each way costs a day we don't have. The idea still travels: private hanok + water is the Haeon shape minus the pool. Future trip.",
+   "status": "open",
+   "merged_into": null
+  },
+  {
+   "id": "DcoGTldRSxq",
+   "code": "DcoGTldRSxq",
+   "first_seen": "2026-08-31",
+   "creator": "rheaandnick",
+   "title": "@rheaandnick — \"the secrets out\"",
+   "location": null,
+   "section": "Needs a watch",
+   "group": null,
+   "city": null,
+   "score": "⚪",
+   "day": null,
+   "notes": "Geotag Seoul; list on screen only. Comments frame it as a south-of-the-Han (Gangnam/Yangjae) food and coffee shortlist — one commenter asks about \"the fresh tofu spot\", another disputes that the best food is south of the river.",
+   "fit": "⚪ None of our three bases is south of the river and no Gangnam day is planned — low priority.",
+   "status": "needs_watch",
+   "merged_into": null
   }
  ]
 }
