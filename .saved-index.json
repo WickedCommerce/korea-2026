@@ -3,7 +3,7 @@
  "collection_id": "18312160387253062",
  "url": null,
  "schema_version": 2,
- "last_audit": "2026-09-01",
+ "last_audit": "2026-09-02",
  "posts": [
   {
    "id": "DcFMLcSp0Qm",
@@ -2434,7 +2434,7 @@
    "notes": "Video-only reel, caption is hashtags. Geotag Seongsudong; calls it \"the most popular area in Seoul\". [post](https://instagram.com/p/DaVW9VJvFRq)",
    "fit": "⚪ Adds nothing beyond the two existing Seongsu saves. Merged.",
    "status": "needs_watch",
-   "merged_into": "DasRx0-zPIC"
+   "merged_into": "DcJcZt2yezO"
   },
   {
    "id": "DcqVu_8lIdU",
@@ -2739,6 +2739,57 @@
    "day": null,
    "notes": "\"The best burger I've ever had and I'm not being dramatic.\" Geotag is the restaurant itself. [post](https://instagram.com/p/DcqTN_HqRTG)",
    "fit": "🟡 Third burger place in the catalogue. Gangnam is off our map, but a burger is the guaranteed-eaten meal if a day goes wrong.",
+   "status": "open",
+   "merged_into": null
+  },
+  {
+   "id": "DcssVXCTgUY",
+   "code": "DcssVXCTgUY",
+   "first_seen": "2026-09-02",
+   "creator": "sooptable",
+   "title": "Soop Table — Korean home-cooking class",
+   "location": "Yeonnam-dong, Mapo-gu, Seoul",
+   "section": "Activities",
+   "group": "Seoul",
+   "city": "Seoul",
+   "score": "⚪",
+   "day": null,
+   "notes": "Hands-on class in traditional Korean homestyle dishes, small group, step by step. Booking by Instagram DM only — no published price, duration or minimum age. [post](https://instagram.com/p/DcssVXCTgUY)",
+   "fit": "⚪ Same idea as Museum Kimchikan on Sun 1 Nov, which wins on paper: no reservation, explicitly kid-friendly, ~£16 for all three, and already in Insadong beside the rest of that day. Yeonnam-dong is ~35 min cross-city. Only worth a DM for the cook-a-full-meal version, and ask about the 8-year-old first.",
+   "status": "open",
+   "merged_into": null
+  },
+  {
+   "id": "DcuZuSTPRRU",
+   "code": "DcuZuSTPRRU",
+   "first_seen": "2026-09-02",
+   "creator": "deborahinkorea_",
+   "title": "Koong (궁)",
+   "location": "Insadong, Jongno-gu, Seoul — Anguk Stn Exit 5",
+   "section": "Food",
+   "group": "Seoul — named spots",
+   "city": "Seoul",
+   "score": "🟡",
+   "day": null,
+   "notes": "Michelin Guide 2026 (and many prior years) mandu house in Insadong. Anguk Station Exit 5. [post](https://instagram.com/p/DcuZuSTPRRU)",
+   "fit": "🟡 Dumplings are about as daughter-proof as Seoul food gets, and it is 5 min from both the Moxy and the hanok. Two natural slots: the Sat 24 lunch, where it is a cleaner fallback than Doore given the trading question over Gogung; or Sun 1 Nov as the Insadong lunch around Museum Kimchikan.",
+   "status": "open",
+   "merged_into": null
+  },
+  {
+   "id": "Dcs9B9NJNqg",
+   "code": "Dcs9B9NJNqg",
+   "first_seen": "2026-09-02",
+   "creator": "_withhelen",
+   "title": "Haus Garage",
+   "location": "22-9 Yongsan-dong 2-ga, Yongsan-gu, Seoul",
+   "section": "Food",
+   "group": "Seoul — named spots",
+   "city": "Seoul",
+   "score": "🟡",
+   "day": null,
+   "notes": "Café doing a Hello Kitty pancake. Caption names nothing; address comes from the creator's pinned comment. A commenter rates the blueberry pancakes higher. [post](https://instagram.com/p/Dcs9B9NJNqg)",
+   "fit": "🟡 Novelty pancake for an 8-year-old, in Yongsan-dong 2-ga on the Haebangchon side — the same pocket as the HBC and Namsan-walk saves. A daytime café, so it does not bolt onto the Fri 23 Namsan evening; it needs its own slot.",
    "status": "open",
    "merged_into": null
   }
