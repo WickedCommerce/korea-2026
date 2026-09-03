@@ -3,7 +3,7 @@
  "collection_id": "18312160387253062",
  "url": null,
  "schema_version": 2,
- "last_audit": "2026-09-02",
+ "last_audit": "2026-09-03",
  "posts": [
   {
    "id": "DcFMLcSp0Qm",
@@ -2792,6 +2792,40 @@
    "fit": "🟡 Novelty pancake for an 8-year-old, in Yongsan-dong 2-ga on the Haebangchon side — the same pocket as the HBC and Namsan-walk saves. A daytime café, so it does not bolt onto the Fri 23 Namsan evening; it needs its own slot.",
    "status": "open",
    "merged_into": null
+  },
+  {
+   "id": "Dcwg1E7Itkw",
+   "code": "Dcwg1E7Itkw",
+   "first_seen": "2026-09-03",
+   "creator": "everydayavacation",
+   "title": "Starfield Library",
+   "location": "Starfield COEX Mall, Samseong-dong, Gangnam-gu (Samseong Stn, Line 2)",
+   "section": "Activities",
+   "group": "Seoul",
+   "city": "Seoul",
+   "score": "⚪",
+   "day": null,
+   "notes": "Two-storey open bookshelves in the COEX mall atrium. Free, no ticket, no booking. Go first thing in the morning — it fills up fast. Seasonal light installation was still up in January, so not worth timing a visit around. [post](https://instagram.com/p/Dcwg1E7Itkw)",
+   "fit": "⚪ A 20-minute stop, not a plan. Worth it only if Mon 26 = Lotte World (Option B) — Samseong is two stops from Jamsil on Line 2, so it bolts on before the park opens, which is also when it is quietest. This is the COEX branch, not Starfield Library Suwon already listed under Further afield.",
+   "status": "open",
+   "merged_into": null
+  },
+  {
+   "id": "DcxqOI9BwrI",
+   "code": "DcxqOI9BwrI",
+   "first_seen": "2026-09-03",
+   "creator": "losttravelbugs",
+   "title": "Jeonju Hanok Village by electric buggy",
+   "location": "Jeonju Hanok Village, Jeonju-si, Jeollabuk-do",
+   "section": "Activities",
+   "group": "Further afield",
+   "city": "Other",
+   "score": "🔴",
+   "day": null,
+   "notes": "Second save on Jeonju. Hire an electric buggy — ₩40,000 for 2 hours — and drive the village instead of walking it. Route: Gyeonggijeon Shrine → Jeondong Catholic Cathedral → Jeonjucheon River → Omokgyo Bridge & Cheongyeonru Pavilion → traditional swing and stepping stones → Jeonju Hyanggyo → hanok side streets → Taejo-ro and Eunhaeng-ro. [post](https://instagram.com/p/DcxqOI9BwrI)",
+   "fit": "🔴 Merged into the existing Jeonju entry. No room in 4-4-2, but the buggy changes the feasibility of a future Jeonju day with an 8-year-old.",
+   "status": "open",
+   "merged_into": "Db7oZY0h7YM"
   }
  ]
 }
