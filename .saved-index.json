@@ -3,7 +3,7 @@
  "collection_id": "18312160387253062",
  "url": null,
  "schema_version": 2,
- "last_audit": "2026-09-03",
+ "last_audit": "2026-09-04",
  "posts": [
   {
    "id": "DcFMLcSp0Qm",
@@ -2826,6 +2826,23 @@
    "fit": "🔴 Merged into the existing Jeonju entry. No room in 4-4-2, but the buggy changes the feasibility of a future Jeonju day with an 8-year-old.",
    "status": "open",
    "merged_into": "Db7oZY0h7YM"
+  },
+  {
+   "id": "Da-8EnPgCD8",
+   "code": "Da-8EnPgCD8",
+   "first_seen": "2026-09-04",
+   "creator": "mexican.seoul",
+   "title": "Daejeon food day with a local guide",
+   "location": "Daejeon — ~1h KTX from Seoul, and directly on the Seoul–Busan line",
+   "section": "Activities",
+   "group": "Further afield",
+   "city": "Other",
+   "score": "🔴",
+   "day": null,
+   "notes": "Seoul Sessions EP.5. The creators trained an hour to meet **@eatingwhatisgiven (Austin)**, a professor and local food figure, who gave them a whirlwind tour of Daejeon's food scene; they claim **the best Korean fried chicken of the entire trip** was there. **No venue is named** in the caption, geotag or comments — the places are on screen only.",
+   "fit": "The value is the guide, not an actionable list, and there is no gap for Daejeon in 4-4-2. Daejeon is on the Seoul→Busan KTX (Tue 27 Oct) so a break-of-journey is possible in principle, but it would cost the Busan arrival afternoon for an unnamed chicken shop. Needs a watch for venue names; otherwise file the contact for a future trip.",
+   "status": "needs_watch",
+   "merged_into": null
   }
  ]
 }
