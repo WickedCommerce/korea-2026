@@ -3,7 +3,7 @@
  "collection_id": "18312160387253062",
  "url": null,
  "schema_version": 2,
- "last_audit": "2026-09-11",
+ "last_audit": "2026-09-12",
  "posts": [
   {
    "id": "DcFMLcSp0Qm",
@@ -3251,6 +3251,23 @@
    "status": "open",
    "merged_into": null,
    "first_seen": "2026-09-11"
+  },
+  {
+   "id": "DdI7UbxBPzV",
+   "code": "DdI7UbxBPzV",
+   "first_seen": "2026-09-12",
+   "creator": "seoul_express_tours",
+   "title": "ZION Jongno — rooftop, café and burger floors",
+   "location": "37 Donhwamun-ro 4-gil, Jongno-gu (166-2 Jongno 3-ga) — opposite Jongmyo Shrine",
+   "section": "Food",
+   "group": "Seoul — named spots",
+   "city": "Seoul",
+   "score": "🟡",
+   "day": "Sat 31 Oct",
+   "notes": "Second save of ZION. Adds the road address and the building layout: café ground floor, handmade burgers and tacos upstairs, rooftop above that with an old-Seoul/new-Seoul skyline view. 70s Americana interior. Mon–Sat 11:00–21:00, last order ~20:00, closed Sunday. Creator's tip: don't leave after eating, go all the way up. [post](https://instagram.com/p/DdI7UbxBPzV)",
+   "fit": "Same restaurant as the @zion.seoul save — merged. The rooftop is the new information and it improves the case for the Sat 31 Oct low-key evening: go before dark.",
+   "status": "open",
+   "merged_into": "Dam2MnLkuMa#2"
   }
  ]
 }
