@@ -3,7 +3,7 @@
   "collection_id": "18312160387253062",
   "url": null,
   "schema_version": 2,
-  "last_audit": "2026-09-18",
+  "last_audit": "2026-09-19",
   "posts": [
     {
       "id": "DcFMLcSp0Qm",
@@ -3522,6 +3522,40 @@
       "notes": "CNN segment (@gagegoulding) on Time Out naming Jongno 3-ga the world's coolest neighbourhood for 2026, published 16 Sep 2026 (3rd five years ago). Cited reasons: Ikseon-dong hanok lanes, characterful small shops, and pojangmacha late-night street-food stalls. Video-only reel, but the caption plus press coverage identify the story fully.",
       "fit": "Both Seoul bases sit inside it (Moxy Insadong nights 1–2, Haeon hanok nights 9–10), so nothing new to add — but a global No. 1 listing five weeks out means queues: reserve the named Ikseon-dong spots instead of walking in, and take the late-night stall streets on the hanok nights rather than the jet-lagged arrival weekend.",
       "status": "open",
+      "merged_into": null
+    },
+    {
+      "id": "DdTy6KBzXJN",
+      "code": "DdTy6KBzXJN",
+      "first_seen": "2026-09-19",
+      "creator": "playoutsidesg",
+      "title": "Seoul Forest Park — the free kids' half of it",
+      "location": "Seoul Forest, Seongdong-gu (Seoul Forest / Ttukseom Stn)",
+      "section": "Activities",
+      "group": "Seoul",
+      "city": "Seoul",
+      "score": "🟡",
+      "day": "Fri 23 Oct",
+      "notes": "The playground side of the park rather than the gardens: a large playground, a sandpit, and a butterfly & insect garden, all free. Food trucks inside the park and restaurants around it, so lunch doesn't need planning. Creator's own framing is a break *from* sightseeing — somewhere to let a child run and have a picnic. Sits 10 minutes from Seongsu-dong, so it pairs with a shopping/café stretch either side. [post](https://instagram.com/p/DdTy6KBzXJN)",
+      "fit": "🟡 **This is the piece that makes a Seoul Forest morning work for her, not just for us.** The park was already on the list twice — the Garden Show (closes **Mon 27 Oct**) and Haus Nowhere 10 min away — but both were adult-interest. Playground + sandpit + insect garden is the child's half of the same trip. Best slot **Fri 23 PM** (jet-lagged, outdoors, zero commitment) or **Mon 26 AM** if Everland's 09:30 shuttle is the one. Free, so it costs nothing to abandon halfway.",
+      "status": "open",
+      "merged_into": null
+    },
+    {
+      "id": "DdWkyPdofWP",
+      "code": "DdWkyPdofWP",
+      "first_seen": "2026-09-19",
+      "creator": "kdramalogic",
+      "title": "@kdramalogic — \"I've been a tourist for more than 3 years and went all over Korea\"",
+      "location": null,
+      "section": "Needs a watch",
+      "group": null,
+      "city": null,
+      "score": "⚪",
+      "day": null,
+      "notes": "Video-only reel, no geotag, no comments. The caption promises **budget-saving tips**: best-value experiences, where to shop for deals, and advice aimed at solo travellers and people on a budget. Not one venue, price or figure appears anywhere in the caption",
+      "fit": "A general Korea money-saving list, everything on screen. ⚪ *Framed for solo and budget travellers, which is not our trip shape — and the Travel tips section already carries the transport, T-money and pass maths in more detail. Watch only if the Discover Seoul Pass sums are still undecided when the time comes; there is a chance it prices passes against pay-as-you-go.*",
+      "status": "needs_watch",
       "merged_into": null
     }
   ]
