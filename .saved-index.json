@@ -3,7 +3,7 @@
  "collection_id": "18312160387253062",
  "url": null,
  "schema_version": 2,
- "last_audit": "2026-10-06",
+ "last_audit": "2026-10-08",
  "posts": [
   {
    "id": "DcFMLcSp0Qm",
@@ -3693,6 +3693,23 @@
    "fit": "🔴 **Wrong island.** There is no Jeju leg — 4 nights Seoul, 4 Busan, 2 in the hanok, ICN on 2 Nov. Watch it only to check whether the reel was shot at a mainland branch: dry-aged samgyeopsal would drop into the **Sun 1 Nov** farewell BBQ already in the plan, and the nine-strong BBQ list has no dry-aged entry. Until a Seoul or Busan branch is confirmed, file for a future trip.",
    "status": "needs_watch",
    "merged_into": null
+  },
+  {
+   "id": "DeIizHpTOIR",
+   "code": "DeIizHpTOIR",
+   "first_seen": "2026-10-08",
+   "creator": "maddieandluke_travels",
+   "title": "Chapssal kkwabaegi (찹쌀꽈배기) — the ₩1,000 yellow stall",
+   "location": "Gwangjang Market, Jongno — the small yellow stall",
+   "section": "Food",
+   "group": "Seoul — named spots",
+   "city": "Seoul",
+   "score": "🟢",
+   "day": "Sat 24 Oct",
+   "notes": "Glutinous-rice twisted doughnut — donut × mochi × churro, crisp outside, warm and chewy inside, rolled in cinnamon sugar. ₩1,000 each from a famous little yellow stall. Geotagged Gwangjang Market; reel with no comments, caption carries the detail. [post](https://instagram.com/p/DeIizHpTOIR)",
+   "fit": "🟢 Confirms, names and prices the twisted-doughnut entry already slotted for the Sat 24 Oct Gwangjang food tour. Merged into it.",
+   "status": "open",
+   "merged_into": "Dcr1XXSjCoX#7"
   }
  ]
 }
