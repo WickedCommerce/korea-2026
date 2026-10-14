@@ -3,7 +3,7 @@
   "collection_id": "18312160387253062",
   "url": null,
   "schema_version": 2,
-  "last_audit": "2026-10-09",
+  "last_audit": "2026-10-14",
   "posts": [
     {
       "id": "DcFMLcSp0Qm",
@@ -3760,6 +3760,23 @@
       "notes": "A **Heritage Edition** of the Discover Seoul Pass covering **12 heritage sites including the four palaces**, named as the Welcome Week giveaway item at the **Incheon and Gimpo airport tourist information centres**. [post](https://instagram.com/p/DeL4UpbicKU)",
       "fit": "⚪ **Filed as a product, not as a freebie — that giveaway closed on 11 Oct, twelve days before we land.** Worth knowing it exists because the catalogue's Discover Seoul Pass entry (72h ₩90,000, transport card + eSIM) is priced for a sightseeing blitz we are not doing. But the heritage maths is worse, not better: the plan holds exactly **one** palace — Gyeongbokgung with hanbok on **Sat 24 Oct** — plus Jongmyo, which we only walk past from the hanok. A 12-site pass wants four or five sites to break even. File it for the trip where someone wants a palace week.",
       "status": "open",
+      "merged_into": null
+    },
+    {
+      "id": "DeatMKTCLAX",
+      "code": "DeatMKTCLAX",
+      "first_seen": "2026-10-14",
+      "creator": "fltr_magazine",
+      "title": "Seoul vinyl-café guide — the un-named Mangwon stop",
+      "location": "Mangwon-dong, Mapo-gu, Seoul — the post never names the café",
+      "section": "Drink",
+      "group": "Seoul",
+      "city": "Seoul",
+      "score": "⚪",
+      "day": "Sun 25 Oct AM (only if the open morning goes to Hongdae/Mapo)",
+      "notes": "A guide to Seoul's **vinyl cafés**, framed as the modern descendant of the 1970s–80s **dabang** coffeehouses where people went to drink coffee and listen to records. The one stop described is **in Mangwon**: order a filter coffee, browse the vinyl collection, eat a **cardamom bun**. The full list is gated behind \"Comment SEOUL and I'll send you the list\", so only this one is readable from the post. The caption credits the cover image to **@shyghost_coffeelab**, but that is the magazine's global round-up, not confirmed as the Mangwon café. Nearest public match for the description is **House of Vinyl** (하우스오브바이닐), 405-17 Mangwon-dong, Mapo-gu — **unconfirmed**. [post](https://instagram.com/p/DeatMKTCLAX)",
+      "fit": "Mangwon is one stop past Hongdae on Line 6, so it only exists if the open Sun 25 Oct morning goes to Hongdae-by-day — and a vinyl room is an adults' pleasure with nothing in it for an 8-year-old. zakilove already covers the vinyl-café idea with a named address walkable from ENA Suite. Unresolved until the venue is named.",
+      "status": "unresolved",
       "merged_into": null
     }
   ]
