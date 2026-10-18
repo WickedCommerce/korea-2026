@@ -3,7 +3,7 @@
   "collection_id": "18312160387253062",
   "url": null,
   "schema_version": 2,
-  "last_audit": "2026-10-14",
+  "last_audit": "2026-10-18",
   "posts": [
     {
       "id": "DcFMLcSp0Qm",
@@ -3777,6 +3777,23 @@
       "notes": "A guide to Seoul's **vinyl cafés**, framed as the modern descendant of the 1970s–80s **dabang** coffeehouses where people went to drink coffee and listen to records. The one stop described is **in Mangwon**: order a filter coffee, browse the vinyl collection, eat a **cardamom bun**. The full list is gated behind \"Comment SEOUL and I'll send you the list\", so only this one is readable from the post. The caption credits the cover image to **@shyghost_coffeelab**, but that is the magazine's global round-up, not confirmed as the Mangwon café. Nearest public match for the description is **House of Vinyl** (하우스오브바이닐), 405-17 Mangwon-dong, Mapo-gu — **unconfirmed**. [post](https://instagram.com/p/DeatMKTCLAX)",
       "fit": "Mangwon is one stop past Hongdae on Line 6, so it only exists if the open Sun 25 Oct morning goes to Hongdae-by-day — and a vinyl room is an adults' pleasure with nothing in it for an 8-year-old. zakilove already covers the vinyl-café idea with a named address walkable from ENA Suite. Unresolved until the venue is named.",
       "status": "unresolved",
+      "merged_into": null
+    },
+    {
+      "id": "DejfLZqxeWV",
+      "code": "DejfLZqxeWV",
+      "first_seen": "2026-10-18",
+      "creator": "_yh.yhh",
+      "title": "Hyundai Department Store Trade Center — Christmas display",
+      "location": "517 Teheran-ro, Gangnam-gu, Seoul — 10F “Epi One” (Samseong Stn, Line 2); 10:30–20:00, Fri–Sun to 20:30",
+      "section": "Activities",
+      "group": "Seoul",
+      "city": "Seoul",
+      "score": "🟡",
+      "day": "Sun 25 Oct",
+      "notes": "The store dresses for Christmas in stages and the whole thing is live inside our window: 10F Epi One from 16 Oct — a forest of Christmas trees around a giant cat, with a taxi loaded with presents as the photo spot · 7F, beside the escalator, from 20 Oct · 1F, in front of the main entrance, from 25 Oct. Free to walk in; the caption names the address, the floor and the hours outright. [post](https://instagram.com/p/DejfLZqxeWV)",
+      "fit": "🟡 **Only as a bolt-on to the partner’s Sun 25 Oct solo shop**, which already crosses the river. Samseong is four stops east of Gangnam Stn on Line 2 — about 10 minutes from Optima Wellness Museum — and the **1F display opens that very day**. Free, twenty minutes, nothing to book. For the three of us it is a 🔴: Mon 26 is Everland and a giant-cat photo op does not justify a Gangnam round trip on its own. Note it sits in the **same complex as Starfield Library** — if anyone does end up at Samseong, do both in one stop.",
+      "status": "open",
       "merged_into": null
     }
   ]
