@@ -228,6 +228,7 @@ Tacos, not Korean food — a global-street-food carousel from @pocketmag_global 
 | Spot | What | Link |
 |---|---|---|
 | **Shin Shikdang, Damyang** | Tteok-galbi — creator's best single thing eaten in Korea. Damyang is in Jeollanam-do, ~3.5h from Seoul. | [post](https://instagram.com/p/DcBIjHGlFSQ) · 🔴 out of range |
+| **Buenos Aires burger list** | Not Korea. Six-card carousel of the creator's favourite **burger spots in Buenos Aires, Argentina** — no Korean content anywhere in the post or caption. It reads as a mis-save into this collection (post dated 18 Oct, appeared in the collection this week). Logged so a future run does not try to resolve it as a Seoul venue. | [post](https://instagram.com/p/DepT4LEnAqN) · 🔴 wrong country |
 
 **Fussy-eater filter (rice-forward, mild):** Obang Tongdak's garlic-rice-stuffed golden chicken · Mangwon Market fresh produce and fried snacks · Rêve Doux croissant · Jeonju-style bibimbap (already booked Sat 24) · salt bread, everywhere · **Wooyeonhwa Ikseon** (hamburg steak + a whole stone pot of plain rice — arguably the single most daughter-proof meal in this catalogue, and it's 3 minutes from the hanok) · **Egg Drop** (build-your-own sandwich, she picks the fillings — solves hanok breakfasts, where Haeon has none) · **Nammae Gukbap** (rice in a mild pork broth) · **Mil Toast Ikseon** (steamed milk bread) · **Myeongdong soufflé pancakes**.
 

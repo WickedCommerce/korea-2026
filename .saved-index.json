@@ -3,7 +3,7 @@
  "collection_id": "18312160387253062",
  "url": null,
  "schema_version": 2,
- "last_audit": "2026-10-20",
+ "last_audit": "2026-11-08",
  "posts": [
   {
    "id": "DcFMLcSp0Qm",
@@ -3793,6 +3793,23 @@
    "day": "Sun 25 Oct",
    "notes": "The store dresses for Christmas in stages and the whole thing is live inside our window: 10F Epi One from 16 Oct — a forest of Christmas trees around a giant cat, with a taxi loaded with presents as the photo spot · 7F, beside the escalator, from 20 Oct · 1F, in front of the main entrance, from 25 Oct. Free to walk in; the caption names the address, the floor and the hours outright. [post](https://instagram.com/p/DejfLZqxeWV)",
    "fit": "🟡 **Only as a bolt-on to the partner’s Sun 25 Oct solo shop**, which already crosses the river. Samseong is four stops east of Gangnam Stn on Line 2 — about 10 minutes from Optima Wellness Museum — and the **1F display opens that very day**. Free, twenty minutes, nothing to book. For the three of us it is a 🔴: Mon 26 is Everland and a giant-cat photo op does not justify a Gangnam round trip on its own. Note it sits in the **same complex as Starfield Library** — if anyone does end up at Samseong, do both in one stop.",
+   "status": "open",
+   "merged_into": null
+  },
+  {
+   "id": "DepT4LEnAqN",
+   "code": "DepT4LEnAqN",
+   "first_seen": "2026-11-08",
+   "creator": "tablefortaran",
+   "title": "Buenos Aires burger list",
+   "location": "Not Korea. Six-card carousel of the creator's favourite **burger spots in Buenos Aires, Argentina** — no Korean content anywhere in the post or caption. It reads as a mis-save into this collection (post dated 18 Oct, appeared in the collection this week). Logged so a future run does not try to resolve it as a Seoul venue.",
+   "section": "Food",
+   "group": "Elsewhere",
+   "city": null,
+   "score": "🔴",
+   "day": null,
+   "notes": "[post](https://instagram.com/p/DepT4LEnAqN) · 🔴 wrong country",
+   "fit": null,
    "status": "open",
    "merged_into": null
   }
